@@ -1,4 +1,4 @@
-public class MyGenericClass <T, V>{
+public class MyGenericClass <T extends  Number, V extends Number>{
 
     T x;
     V y;
